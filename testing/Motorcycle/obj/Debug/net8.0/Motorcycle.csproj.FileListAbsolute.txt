@@ -1,0 +1,5 @@
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\Motorcycle\obj\Debug\net8.0\Motorcycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\Motorcycle\obj\Debug\net8.0\Motorcycle.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\Motorcycle\obj\Debug\net8.0\Motorcycle.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\Motorcycle\obj\Debug\net8.0\Motorcycle.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\Motorcycle\obj\Debug\net8.0\Motorcycle.sourcelink.json
