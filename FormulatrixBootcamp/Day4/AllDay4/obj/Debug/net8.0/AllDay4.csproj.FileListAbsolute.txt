@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.sourcelink.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\bin\Debug\net8.0\AllDay4.exe
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\bin\Debug\net8.0\AllDay4.deps.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\bin\Debug\net8.0\AllDay4.runtimeconfig.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\bin\Debug\net8.0\AllDay4.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\bin\Debug\net8.0\AllDay4.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\refint\AllDay4.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\AllDay4.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day4\AllDay4\obj\Debug\net8.0\ref\AllDay4.dll
