@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.sourcelink.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\bin\Debug\net8.0\InterfaceProject.exe
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\bin\Debug\net8.0\InterfaceProject.deps.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\bin\Debug\net8.0\InterfaceProject.runtimeconfig.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\bin\Debug\net8.0\InterfaceProject.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\bin\Debug\net8.0\InterfaceProject.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\refint\InterfaceProject.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\InterfaceProject.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\testing\InterfaceProject\obj\Debug\net8.0\ref\InterfaceProject.dll
