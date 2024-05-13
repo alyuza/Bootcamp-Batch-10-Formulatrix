@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day4\\GenericDemo\\SwapTest.csproj": {}
+    "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day5\\AllDay5\\AllDay5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day4\\GenericDemo\\SwapTest.csproj": {
+    "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day5\\AllDay5\\AllDay5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day4\\GenericDemo\\SwapTest.csproj",
-        "projectName": "SwapTest",
-        "projectPath": "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day4\\GenericDemo\\SwapTest.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day5\\AllDay5\\AllDay5.csproj",
+        "projectName": "AllDay5",
+        "projectPath": "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day5\\AllDay5\\AllDay5.csproj",
         "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day4\\GenericDemo\\obj\\",
+        "outputPath": "C:\\Users\\Batch 10\\Documents\\Bootcamp Batch 10 Formulatrix\\FormulatrixBootcamp\\Day5\\AllDay5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
