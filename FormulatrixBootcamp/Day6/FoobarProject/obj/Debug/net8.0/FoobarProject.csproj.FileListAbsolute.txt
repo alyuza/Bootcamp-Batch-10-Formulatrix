@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\bin\Debug\net8.0\FoobarProject.exe
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\bin\Debug\net8.0\FoobarProject.deps.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\bin\Debug\net8.0\FoobarProject.runtimeconfig.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\bin\Debug\net8.0\FoobarProject.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\bin\Debug\net8.0\FoobarProject.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.sourcelink.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\refint\FoobarProject.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\FoobarProject.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\FoobarProject\obj\Debug\net8.0\ref\FoobarProject.dll
