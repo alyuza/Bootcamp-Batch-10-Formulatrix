@@ -1,0 +1,15 @@
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\bin\Debug\net8.0\Testing1.exe
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\bin\Debug\net8.0\Testing1.deps.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\bin\Debug\net8.0\Testing1.runtimeconfig.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\bin\Debug\net8.0\Testing1.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\bin\Debug\net8.0\Testing1.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.AssemblyInfoInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.AssemblyInfo.cs
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.csproj.CoreCompileInputs.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.sourcelink.json
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\refint\Testing1.dll
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.pdb
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\Testing1.genruntimeconfig.cache
+C:\Users\Batch 10\Documents\Bootcamp Batch 10 Formulatrix\FormulatrixBootcamp\Day6\Testing1\obj\Debug\net8.0\ref\Testing1.dll
