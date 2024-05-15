@@ -1,11 +1,8 @@
 ﻿// 3 foo
 // 5 bar
-// User input => n
-
-// n = 15
+// User input => if n=15 print:
 // 0, 1, 2, foo, 4, bar, foo, 7, 8, foo, bar, 11, foo, 13, 14, foobar
 
-using System;
 namespace FooBar
 {
     class Program
@@ -13,33 +10,22 @@ namespace FooBar
         static void Main()
         {
             Console.WriteLine("Please Input n value: ");
-            int n = int.Parse(Console.ReadLine());
-            Identifier.Check(n);
-        }
-    }
+            int n;
 
-    class Identifier
-    {
-        public static void Check(int n)
-        {
-            for (int i = 1; i <= n; i++)
+            if (int.TryParse(Console.ReadLine(), out n)) // convert to int, karena melakukan perhitungan harus menggunakan tipe data numerik
             {
-                if (i % 3 == 0 && i % 5 == 0)
+                // call the Check method to get the results in a queue
+                Queue<string> results = Identifier.Check(n);
+
+                // looping dan print 1 per 1 berurutan (FIFO), konsep Queue
+                foreach (var result in results)
                 {
-                    Console.WriteLine("FooBar");
+                    Console.WriteLine(result);
                 }
-                else if (i % 3 == 0)
-                {
-                    Console.WriteLine("Foo");
-                }
-                else if (i % 5 == 0)
-                {
-                    Console.WriteLine("Bar");
-                }
-                else
-                {
-                    Console.WriteLine(i);
-                }
+            }
+            else
+            {
+                Console.WriteLine("Please enter an integer value / numeric");
             }
         }
     }

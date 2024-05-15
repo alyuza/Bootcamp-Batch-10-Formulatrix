@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoobarProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f22d57d633ce873a9b26eaa5ca6f862b9415f850")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aee29d6b555547861f5067ea3cdcc544931a6dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoobarProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoobarProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
