@@ -25,6 +25,7 @@ namespace FoobarProject
                 foreach (var result in results)
                 {
                     Console.WriteLine(result);
+                    Console.WriteLine(result);
                 }
             }
             else
