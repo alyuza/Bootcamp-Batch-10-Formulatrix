@@ -1,0 +1,101 @@
+```mermaid
+
+classDiagram
+    class GameState {
+        <<enumeration>>
+        Preparation
+        Pause
+        Ongoing
+        End
+    }
+
+    class GameTimer {
+        <<enumeration>>
+        None
+        120
+        300
+        Custom
+    }
+
+    class TimerState {
+        <<enumeration>>
+        Running
+        Paused
+    }
+
+    class Color {
+        <<enumeration>>
+        Black
+        White
+    }
+
+    class GameController {
+    // Max Player = 2
+    -List<IPlayer> players
+    -IPlayer currentPlayer
+    -Board board
+    -GameState gameState
+    -GameTimer gameTimer
+    -TimerState timerState
+    +GameController(List<IPlayer> players, int boardSize)
+    +StartGame() : void
+    +PlaceDisc(int row, int col) : bool
+    +IsGameOver() : bool
+    +CalculateScore() : void
+    +GetPlayerDiscCount(Color discColor) : int
+    -SwitchPlayer() : void
+    +GetPlayers() : List<IPlayer>
+    +SetGameState(newState: GameState) : void
+    +SetGameTimer(newTimer: GameTimer) : void
+    +SetTimerState(newTimerState: TimerState) : void 
+    +SetWinnerPlayer(IPlayer player)
+    +IsValidMove(row: int, col: int, player: IPlayer) : bool // Delegasi ke Board
+}
+
+    class IPlayer {
+        <<interface>>
+        +int playerId <get;>
+        +string playerName <get;>
+        +Color DiscColor <get;>
+        +Player(playerId: int, playerName: string, discColor: Color)
+        +MakeMove(Board board) : void
+    }
+
+    class Player {
+        +int playerId <get; private set;>
+        +string playerName <get; private set;>
+        +Color DiscColor <get; private set;>
+        +Player(playerId: int, playerName: string, discColor: Color)
+        +MakeMove(board: Board) : void 
+    }
+
+   class Board {
+    // Max board size = 8
+    -Disc[][] grid
+    +Board(int size)
+    +Initialize() : void
+    +PlaceDisc(row: int, col: int, player: IPlayer) : void 
+    +GetDisc(row: int, col: int) : Disc
+    +CanFlipInDirection(row: int, col: int, deltaRow: int, deltaCol: int, player: IPlayer) : bool
+    +CountDiscs(discColor: Color) : int
+    +FlipDiscs(row: int, col: int, player: IPlayer) : void 
+    +IsValidMove(row: int, col: int, player: IPlayer) : bool
+}
+
+    class Disc {
+        -Color discColor
+        +Disc(color: Color)
+        +Flip() : void
+    }
+
+    %% Relationships
+    GameController *-- Board
+    GameController *-- IPlayer : players(player1, player2)
+    GameController *-- GameState
+    GameController *-- TimerState
+    GameController *-- GameTimer
+    GameController *-- Disc
+    IPlayer <|.. Player
+    Board *-- Disc
+    Disc *-- Color
+```
