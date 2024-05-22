@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\FormulatrixBootcamp\\Day12\\General\\General.csproj",
+      "projectUniqueName": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day12\\General\\General.csproj",
       "projectName": "General",
-      "projectPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\FormulatrixBootcamp\\Day12\\General\\General.csproj",
+      "projectPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day12\\General\\General.csproj",
       "packagesPath": "C:\\Users\\alyuz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\FormulatrixBootcamp\\Day12\\General\\obj\\",
+      "outputPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day12\\General\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alyuz\\AppData\\Roaming\\NuGet\\NuGet.Config"
