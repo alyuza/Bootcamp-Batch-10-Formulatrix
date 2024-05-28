@@ -1,0 +1,5 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\dispose\obj\Debug\net8.0\Dispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\dispose\obj\Debug\net8.0\Dispose.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\dispose\obj\Debug\net8.0\Dispose.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\dispose\obj\Debug\net8.0\Dispose.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\dispose\obj\Debug\net8.0\Dispose.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\bin\DEBUG\net8.0\ConditionalCompilation.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\bin\DEBUG\net8.0\ConditionalCompilation.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\bin\DEBUG\net8.0\ConditionalCompilation.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\bin\DEBUG\net8.0\ConditionalCompilation.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\bin\DEBUG\net8.0\ConditionalCompilation.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\refint\ConditionalCompilation.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ConditionalCompilation.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\ConditionalCompilation\obj\DEBUG\net8.0\ref\ConditionalCompilation.dll

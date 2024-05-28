@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\bin\Debug\net8.0\Task.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\bin\Debug\net8.0\Task.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\bin\Debug\net8.0\Task.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\bin\Debug\net8.0\Task.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\bin\Debug\net8.0\Task.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\refint\Task.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day14\task\obj\Debug\net8.0\ref\Task.dll

@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\bin\Debug\net8.0\Using.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\bin\Debug\net8.0\Using.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\bin\Debug\net8.0\Using.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\bin\Debug\net8.0\Using.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\bin\Debug\net8.0\Using.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\refint\Using.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\Using.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Using\obj\Debug\net8.0\ref\Using.dll

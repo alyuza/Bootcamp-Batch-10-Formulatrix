@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\bin\Debug\net8.0\Tracing.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\bin\Debug\net8.0\Tracing.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\bin\Debug\net8.0\Tracing.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\bin\Debug\net8.0\Tracing.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\bin\Debug\net8.0\Tracing.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\refint\Tracing.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\Tracing.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day13\Tracing\obj\Debug\net8.0\ref\Tracing.dll
