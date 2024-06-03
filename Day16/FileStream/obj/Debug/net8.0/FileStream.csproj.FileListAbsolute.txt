@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\bin\Debug\net8.0\FileStream.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\bin\Debug\net8.0\FileStream.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\bin\Debug\net8.0\FileStream.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\bin\Debug\net8.0\FileStream.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\bin\Debug\net8.0\FileStream.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\refint\FileStream.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\FileStream.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\filestream\obj\Debug\net8.0\ref\FileStream.dll

@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\bin\Debug\net8.0\JSON-Serialization.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\bin\Debug\net8.0\JSON-Serialization.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\bin\Debug\net8.0\JSON-Serialization.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\bin\Debug\net8.0\JSON-Serialization.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\bin\Debug\net8.0\JSON-Serialization.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\refint\JSON-Serialization.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\JSON-Serialization.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\json-serialization\obj\Debug\net8.0\ref\JSON-Serialization.dll

@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\bin\Debug\net8.0\Semaphore.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\bin\Debug\net8.0\Semaphore.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\bin\Debug\net8.0\Semaphore.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\bin\Debug\net8.0\Semaphore.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\bin\Debug\net8.0\Semaphore.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\refint\Semaphore.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\Semaphore.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\semaphore\obj\Debug\net8.0\ref\Semaphore.dll

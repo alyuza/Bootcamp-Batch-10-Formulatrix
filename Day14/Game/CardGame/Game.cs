@@ -26,7 +26,6 @@ namespace CardGame
         }
 
         Player2.Attack(Player1, Player2.Deck[0]);
-
         if (Player1.Health <= 0)
         {
           Console.WriteLine($"{Player1.Name} is defeated! {Player2.Name} wins!");

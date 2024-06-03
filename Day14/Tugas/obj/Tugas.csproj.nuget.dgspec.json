@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\tugas\\Tugas.csproj": {}
+    "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\Tugas\\Tugas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\tugas\\Tugas.csproj": {
+    "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\Tugas\\Tugas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\tugas\\Tugas.csproj",
+        "projectUniqueName": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\Tugas\\Tugas.csproj",
         "projectName": "Tugas",
-        "projectPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\tugas\\Tugas.csproj",
+        "projectPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\Tugas\\Tugas.csproj",
         "packagesPath": "C:\\Users\\alyuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\tugas\\obj\\",
+        "outputPath": "C:\\Users\\alyuz\\Projects\\Bootcamp-Batch-10-Formulatrix\\Day14\\Tugas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alyuz\\AppData\\Roaming\\NuGet\\NuGet.Config"

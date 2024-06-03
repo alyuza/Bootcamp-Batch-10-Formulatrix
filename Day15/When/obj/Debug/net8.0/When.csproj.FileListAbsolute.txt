@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\bin\Debug\net8.0\When.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\bin\Debug\net8.0\When.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\bin\Debug\net8.0\When.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\bin\Debug\net8.0\When.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\bin\Debug\net8.0\When.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\refint\When.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\When.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\when\obj\Debug\net8.0\ref\When.dll

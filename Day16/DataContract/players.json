@@ -1,0 +1,20 @@
+[
+  {
+    "Exp": 1500,
+    "Gold": 300,
+    "_money": 2000,
+    "_name": "Juan"
+  },
+  {
+    "Exp": 3500,
+    "Gold": 500,
+    "_money": 4000,
+    "_name": "Reno"
+  },
+  {
+    "Exp": 4500,
+    "Gold": 700,
+    "_money": 6000,
+    "_name": "Didi"
+  }
+]

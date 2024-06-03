@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\bin\Debug\net8.0\AutoGame.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\bin\Debug\net8.0\AutoGame.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\bin\Debug\net8.0\AutoGame.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\bin\Debug\net8.0\AutoGame.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\bin\Debug\net8.0\AutoGame.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\refint\AutoGame.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\AutoGame.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day15\autogame\obj\Debug\net8.0\ref\AutoGame.dll

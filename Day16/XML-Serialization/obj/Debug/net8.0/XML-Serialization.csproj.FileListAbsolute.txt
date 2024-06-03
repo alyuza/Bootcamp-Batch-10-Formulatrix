@@ -1,0 +1,15 @@
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\bin\Debug\net8.0\XML-Serialization.exe
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\bin\Debug\net8.0\XML-Serialization.deps.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\bin\Debug\net8.0\XML-Serialization.runtimeconfig.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\bin\Debug\net8.0\XML-Serialization.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\bin\Debug\net8.0\XML-Serialization.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.AssemblyInfoInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.AssemblyInfo.cs
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.csproj.CoreCompileInputs.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.sourcelink.json
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\refint\XML-Serialization.dll
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.pdb
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\XML-Serialization.genruntimeconfig.cache
+C:\Users\alyuz\Projects\Bootcamp-Batch-10-Formulatrix\Day16\XML-serialization\obj\Debug\net8.0\ref\XML-Serialization.dll

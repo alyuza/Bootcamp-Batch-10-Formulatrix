@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Yusa",
+    "Age": 26,
+    "Address": "Tulungagung"
+  },
+  {
+    "Name": "Ega",
+    "Age": 22,
+    "Address": "Semarang"
+  },
+  {
+    "Name": "Rizqi",
+    "Age": 24,
+    "Address": "Bandung"
+  },
+  {
+    "Name": "Fadl",
+    "Age": 24,
+    "Address": "Jakarta"
+  },
+  {
+    "Name": "Dewi",
+    "Age": 25,
+    "Address": "Pati"
+  },
+  {
+    "Name": "Wulan",
+    "Age": 29,
+    "Address": "Bandung"
+  },
+  {
+    "Name": "Bela",
+    "Age": 24,
+    "Address": "Kediri"
+  },
+  {
+    "Name": "Jun",
+    "Age": 23,
+    "Address": "Balikpapan"
+  }
+]
