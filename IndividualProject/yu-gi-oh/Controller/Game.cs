@@ -20,24 +20,42 @@ public class Game
   public void StartGame()
   {
     Console.Clear();
+
+    player1.Deck.Shuffle();
+    player2.Deck.Shuffle();
+
     while (player1.Health > 0 && player2.Health > 0)
     {
       Player currentPlayer = isPlayer1Turn ? player1 : player2;
       Player opponentPlayer = isPlayer1Turn ? player2 : player1;
 
-      Console.Clear();
-      // displayManager.RefreshDisplay();
-      displayManager.PrintYuGiOhGrid();
+      if (isPlayer1Turn)
+      {
+        Console.ForegroundColor = ConsoleColor.Red;
+      }
+      else
+      {
+        Console.ForegroundColor = ConsoleColor.Blue;
+      }
       Console.WriteLine($"{currentPlayer.Name}'s turn.");
+      Console.ResetColor();
+
       currentPlayer.DrawCard();
-      displayManager.ShowState(currentPlayer, opponentPlayer); // show current state
-      playerActions.PlaceCardOnField(currentPlayer); // put card
+      RefreshDisplay(currentPlayer, opponentPlayer);
+      playerActions.PlaceCardOnField(currentPlayer);
       playerActions.Attack(currentPlayer, opponentPlayer);
-      playerActions.ActivateTrap(opponentPlayer);
-      isPlayer1Turn = !isPlayer1Turn; // switch turns
+
+      isPlayer1Turn = !isPlayer1Turn; // switch turn
     }
 
     Player winner = player1.Health > 0 ? player1 : player2;
     Console.WriteLine($"{winner.Name} wins the game!");
+  }
+
+  public void RefreshDisplay(Player currentPlayer, Player opponentPlayer)
+  {
+    Console.Clear();
+    displayManager.PrintYuGiOhGrid(currentPlayer, opponentPlayer);
+    displayManager.ShowState(currentPlayer, opponentPlayer);
   }
 }

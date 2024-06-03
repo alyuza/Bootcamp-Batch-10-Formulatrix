@@ -1,5 +1,5 @@
 using System;
-using System.Collections.Generic;
+using System.Threading;
 
 public class Deck
 {
@@ -35,5 +35,25 @@ public class Deck
         Card card = Cards[index];
         Cards.RemoveAt(index);
         return card;
+    }
+
+    public void Shuffle()
+    {
+        string[] animation = { "\\", "|", "-", "/" };
+        int animationIndex = 0;
+
+        int n = Cards.Count;
+        while (n > 1)
+        {
+            n--;
+            int k = random.Next(n + 1);
+            Card value = Cards[k];
+            Cards[k] = Cards[n];
+            Cards[n] = value;
+
+            Console.Write($"\rSHUFFLING DECK {animation[animationIndex]}"); // animation
+            animationIndex = (animationIndex + 1) % animation.Length;
+            Thread.Sleep(300);
+        }
     }
 }
